@@ -11,7 +11,7 @@ body{
 header{
     width:1200px;
     height:700px;
-    margin-left: 160px;
+    margin-left: 190px;
 
     
 }
@@ -148,6 +148,7 @@ font-size: 16px;
     width: 800px;
     margin-left: 400px;
     margin-top: 50px;
+    margin-bottom: 63px;
     text-align: center;
 }
 .btn-3{
@@ -163,4 +164,11 @@ width: 120px;
     width: 483px;
     height: 110px;
 
+}
+#i{
+    border-radius: 100%;
+    margin-right: 10px;
+    width: 32px;
+    height: 32px;
+    box-shadow: 0 0 5px 5px rgba(128, 128, 128, 0.504);
 }
